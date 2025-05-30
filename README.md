@@ -1,2 +1,2 @@
-# Exerccios_LP_Python
+# Exercicios_LP_Python
 Exercicios feitos na Aula de Programação feitos no python
